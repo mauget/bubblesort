@@ -11,7 +11,7 @@ const bubbleSort = (listArg) => {
     let n = list.length;
 
     do {
-        console.log(`n = ${n}`);
+        console.log(`n1 = ${n}`);
 
         let highIndex = 0;
 
@@ -22,6 +22,7 @@ const bubbleSort = (listArg) => {
             }
         }
         n = highIndex;
+        console.log(`n2 = ${n}`);
     } while ( n > 1 );
         return list;
 };
