@@ -22,7 +22,7 @@ const bubbleSort = (listArg) => {
             }
         }
         n = highIndex;
-    } while ( n > 1 )
+    } while ( n > 1 );
         return list;
 };
 
