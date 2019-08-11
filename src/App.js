@@ -1,26 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import bubbleSort from "./BubbleSort";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const a = [3,5,8,1,398,5,-9,7,321,8,6];
+
+    return (
+        <div className="App">
+            <header className="App-header">
+                <h1>Bubble Sort</h1>
+                <p>Input array: </p> {a.toString()}
+                <p>Sorted array:</p> {bubbleSort(a).toString()}
+            </header>
+        </div>
+    );
 }
 
 export default App;
