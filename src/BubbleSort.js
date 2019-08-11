@@ -9,10 +9,11 @@ const swap = (list, a, b) => {
 const bubbleSort = (listArg) => {
     const list = Object.assign([], listArg);
     let n = list.length;
-    let highIndex = n;
 
-    while ( n > 1 ) {
+    do {
         console.log(`n = ${n}`);
+
+        let highIndex = 0;
 
         for (let i = 1; i < n; i++){
             if (list[i-1] > list[i]){
@@ -21,8 +22,8 @@ const bubbleSort = (listArg) => {
             }
         }
         n = highIndex;
-    }
-    return list;
+    } while ( n > 1 )
+        return list;
 };
 
 export default bubbleSort;
