@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import bubbleSort from "./BubbleSort";
+import bubbleSort from "./bubbleSort";
 import createInputs from "./createInputs";
 
 function App() {
