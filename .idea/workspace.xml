@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba790fd2-03dc-4e54-bd49-317ad8881190" name="Default Changelist" comment="">
+    <list default="true" id="ba790fd2-03dc-4e54-bd49-317ad8881190" name="Default Changelist" comment="Example input data ordering made to be somewhat random">
+      <change afterPath="$PROJECT_DIR$/src/createInputs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BubbleSort.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSort.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +30,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1PHyrnSXHe4tUSQCIICsZtV8vT3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -84,7 +86,9 @@
       <option name="presentableId" value="Default" />
       <updated>1565545517356</updated>
       <workItem from="1565545520648" duration="407000" />
-      <workItem from="1565545956150" duration="5700000" />
+      <workItem from="1565545956150" duration="6252000" />
+      <workItem from="1565568749281" duration="665000" />
+      <workItem from="1572783634038" duration="3623000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1565554779375</created>
@@ -114,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565557557920</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Example input data ordering made to be somewhat random">
+      <created>1565565154960</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565565154960</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +147,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
     <MESSAGE value="Handle already-sorted input" />
-    <option name="LAST_COMMIT_MESSAGE" value="Handle already-sorted input" />
+    <MESSAGE value="Example input data ordering made to be somewhat random" />
+    <option name="LAST_COMMIT_MESSAGE" value="Example input data ordering made to be somewhat random" />
   </component>
 </project>
