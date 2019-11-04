@@ -6,12 +6,12 @@ const swap = (list, a, b) => {
     return list;
 };
 
-const bubbleSort = (listArg) => {
+export default function bubbleSort(listArg)  {
     const list = Object.assign([], listArg);
     let n = list.length;
 
     do {
-        console.log(`n1 = ${n}`);
+        // console.log(`n1 = ${n}`);
 
         let highIndex = 0;
 
@@ -22,9 +22,8 @@ const bubbleSort = (listArg) => {
             }
         }
         n = highIndex;
-        console.log(`n2 = ${n}`);
+        // console.log(`n2 = ${n}`);
     } while ( n > 1 );
         return list;
 };
 
-export default bubbleSort;
