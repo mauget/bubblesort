@@ -166,4 +166,14 @@
     <MESSAGE value="Added &quot;New Input&quot; refresh button" />
     <option name="LAST_COMMIT_MESSAGE" value="Added &quot;New Input&quot; refresh button" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="387" y="161" key="CommitChangelistDialog2" timestamp="1584295521496">
+      <screen x="52" y="23" width="1628" height="1027" />
+    </state>
+    <state x="387" y="161" key="CommitChangelistDialog2/52.23.1628.1027@52.23.1628.1027" timestamp="1584295521496" />
+    <state x="362" y="255" key="Vcs.Push.Dialog.v2" timestamp="1584295524008">
+      <screen x="52" y="23" width="1628" height="1027" />
+    </state>
+    <state x="362" y="255" key="Vcs.Push.Dialog.v2/52.23.1628.1027@52.23.1628.1027" timestamp="1584295524008" />
+  </component>
 </project>
