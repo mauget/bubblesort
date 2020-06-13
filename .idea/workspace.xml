@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba790fd2-03dc-4e54-bd49-317ad8881190" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="ba790fd2-03dc-4e54-bd49-317ad8881190" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +78,7 @@
       <workItem from="1565568749281" duration="665000" />
       <workItem from="1572783634038" duration="8199000" />
       <workItem from="1584295044503" duration="465000" />
-      <workItem from="1586193517411" duration="31000" />
+      <workItem from="1586193517411" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1565554779375</created>
@@ -153,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584295562364</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Bumped minimist to ^1.2.3">
+      <created>1586193599067</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586193599067</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,16 +185,35 @@
     <MESSAGE value="Added &quot;New Input&quot; refresh button" />
     <MESSAGE value="Bumpted minimist to ^1.2.5" />
     <MESSAGE value="Bumped minimist to ^1.2.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bumped minimist to ^1.2.5" />
+    <MESSAGE value="Bumped minimist to ^1.2.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bumped minimist to ^1.2.3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="387" y="161" key="CommitChangelistDialog2" timestamp="1584295562276">
-      <screen x="52" y="23" width="1628" height="1027" />
+    <state x="389" y="161" key="CommitChangelistDialog2" timestamp="1586193598912">
+      <screen x="54" y="23" width="1626" height="1027" />
     </state>
     <state x="387" y="161" key="CommitChangelistDialog2/52.23.1628.1027@52.23.1628.1027" timestamp="1584295562276" />
-    <state x="362" y="255" key="Vcs.Push.Dialog.v2" timestamp="1584295564768">
-      <screen x="52" y="23" width="1628" height="1027" />
+    <state x="389" y="161" key="CommitChangelistDialog2/54.23.1626.1027@54.23.1626.1027" timestamp="1586193598912" />
+    <state width="1356" height="177" key="GridCell.Tab.0.bottom" timestamp="1586193614568">
+      <screen x="54" y="23" width="1626" height="1027" />
+    </state>
+    <state width="1356" height="177" key="GridCell.Tab.0.bottom/54.23.1626.1027@54.23.1626.1027" timestamp="1586193614568" />
+    <state width="1356" height="177" key="GridCell.Tab.0.center" timestamp="1586193614567">
+      <screen x="54" y="23" width="1626" height="1027" />
+    </state>
+    <state width="1356" height="177" key="GridCell.Tab.0.center/54.23.1626.1027@54.23.1626.1027" timestamp="1586193614567" />
+    <state width="1356" height="177" key="GridCell.Tab.0.left" timestamp="1586193614566">
+      <screen x="54" y="23" width="1626" height="1027" />
+    </state>
+    <state width="1356" height="177" key="GridCell.Tab.0.left/54.23.1626.1027@54.23.1626.1027" timestamp="1586193614566" />
+    <state width="1356" height="177" key="GridCell.Tab.0.right" timestamp="1586193614567">
+      <screen x="54" y="23" width="1626" height="1027" />
+    </state>
+    <state width="1356" height="177" key="GridCell.Tab.0.right/54.23.1626.1027@54.23.1626.1027" timestamp="1586193614567" />
+    <state x="364" y="255" key="Vcs.Push.Dialog.v2" timestamp="1586193601405">
+      <screen x="54" y="23" width="1626" height="1027" />
     </state>
     <state x="362" y="255" key="Vcs.Push.Dialog.v2/52.23.1628.1027@52.23.1628.1027" timestamp="1584295564768" />
+    <state x="364" y="255" key="Vcs.Push.Dialog.v2/54.23.1626.1027@54.23.1626.1027" timestamp="1586193601405" />
   </component>
 </project>
